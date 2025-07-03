@@ -1,6 +1,6 @@
 **Importante**
 
-Use o Android Studio para importar o projeto e gerar o .apk
+Use o Android Studio para importar o projeto e gerar o .ios
 
 É preciso que você faça alterações no arquivo *[dimens.xml](https://github.com/jonathansilva/8BallPool/blob/master/app/src/main/res/values/dimens.xml)* para ajustar o layout à mesa do jogo
 
